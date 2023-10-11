@@ -3,7 +3,7 @@ import {
   createHeader,
 } from '../../script/layout'
 
-const page = document.querySelector('page')
+const page = document.querySelector('.page')
 
 const header = createHeader()
 
